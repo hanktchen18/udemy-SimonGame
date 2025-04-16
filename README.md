@@ -1,2 +1,8 @@
 # udemy-SimonGame
- Udemy project - JS and JQuery
+
+A project from Udemy course - The Complete Full-Stack Web Development Bootcamp.
+
+
+# What I Learned
+* Create an interactive memory game using JavaScript and jQuery
+* Develop game logic for level progression and error handling
